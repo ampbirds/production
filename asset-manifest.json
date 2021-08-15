@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1b5ab283.chunk.css",
+    "main.js": "./static/js/main.ae558f95.chunk.js",
+    "main.js.map": "./static/js/main.ae558f95.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.80d8fe7d.chunk.js": "./static/js/2.80d8fe7d.chunk.js",
+    "static/js/2.80d8fe7d.chunk.js.map": "./static/js/2.80d8fe7d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.28700b4eed60aa73cc614603fb218a2a.js": "./precache-manifest.28700b4eed60aa73cc614603fb218a2a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1b5ab283.chunk.css.map": "./static/css/main.1b5ab283.chunk.css.map",
+    "static/media/bike1.jpg": "./static/media/bike1.098da435.jpg",
+    "static/media/bike2.jpg": "./static/media/bike2.1a9f5a63.jpg",
+    "static/media/bike3.jpg": "./static/media/bike3.182991a3.jpg",
+    "static/media/fea1.jpg": "./static/media/fea1.e067dbc8.jpg",
+    "static/media/fea2.jpg": "./static/media/fea2.7e268f12.jpg",
+    "static/media/fea3.jpg": "./static/media/fea3.931beb29.jpg",
+    "static/media/fea4.jpg": "./static/media/fea4.420cdff1.jpg",
+    "static/media/fea5.jpg": "./static/media/fea5.8ef1e90e.jpg",
+    "static/media/lekeIcon.png": "./static/media/lekeIcon.97f74a60.png",
+    "static/media/logo.svg": "./static/media/logo.ee7cd8ed.svg",
+    "static/media/shape.svg": "./static/media/shape.43e76283.svg",
+    "static/media/video1.mp4": "./static/media/video1.d0d7dcc8.mp4",
+    "static/media/video2.mp4": "./static/media/video2.79c6185e.mp4"
+  }
+}
